@@ -83,11 +83,11 @@ All users conversations are stored in log file
 ![6.png](screenshots/6.png)
 Unit tests have been written for testing bot and fastapi backend which passed tests with success
 
-![7.png](screenshots/6.png)
+![7.png](screenshots/7.png)
 
 `docker build -t tg-bot-app .`
 
-![8.png](screenshots/6.png)
+![8.png](screenshots/8.png)
 
 `docker run -p 8000:8000 --env-file .env tg-bot-app`
 
